@@ -2,6 +2,23 @@
 
 This project entails the creation of an Ecommerce Sales Analytics Dashboard, designed to offer comprehensive insights into online sales data through a range of visualizations. By employing various visualization techniques like slicers, filters, pie charts, donut charts, bar charts, clustered bar charts, line charts, area charts, and maps, this dashboard provides a user-friendly interface for in-depth analysis of sales performance.
 
+
+
+
+![1715009484712-085c188a-1d20-4e40-ab70-5d30e2f971b3_1](https://github.com/PrithaM25/gitprofile/assets/167307437/4f140321-f0b4-4d7e-a281-17a56197fd9b)
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Key Features:**
 
 **.Interactive Visualizations:** Dive deep into sales data with interactive features such as slicers and filters.
